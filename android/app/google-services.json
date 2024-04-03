@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "989038715703",
+    "project_id": "app-travel-ai",
+    "storage_bucket": "app-travel-ai.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989038715703:android:c9099e0ffcac6be182f0b2",
+        "android_client_info": {
+          "package_name": "com.example.ai_travel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNe9fhvbXkgNkPm40KG-W0Ev54SemqjoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
